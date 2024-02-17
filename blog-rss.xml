@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>HAKI</title>
+  <link>https://www.example.com/</link>
+  <description>Guia sobre el haki.</description>
+  <language>es</language>
+  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+
+  <item>
+    <title>ARMADURA</title>
+    <link>https://www.example.com/blog-entry-1.html</link>
+    <description>Descripcion sobre el haki de primer tipo o haki de armadura</description>
+<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+<guid>https://www.example.com/blog-entry-1.html</guid>
+</item>
+
+  <item>
+    <title>OBSERVACIÓN</title>
+    <link>https://www.example.com/blog-entry-2.html</link>
+    <description>Descripcion sobre el haki de segundo tipo o haki de observación.</description>
+    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-2.html</guid>
+  </item>
+  <item>
+    <title>CONQUISTADOR</title>
+    <link>https://www.example.com/blog-entry-3.html</link>
+    <description>Descripcion sobre el haki de tecer tipo o haki de conquistador.</description>
+    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-3.html</guid>
+  </item>
+</channel>
+</rss>
